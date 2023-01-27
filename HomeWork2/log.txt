@@ -1,0 +1,14 @@
+янв. 27, 2023 4:25:25 PM org.example.BubleSort createLogInfo
+INFO: Элемент 3 перемещен на позицию 1
+янв. 27, 2023 4:25:25 PM org.example.BubleSort createLogInfo
+INFO: Элемент 1 перемещен на позицию 3
+янв. 27, 2023 4:25:25 PM org.example.BubleSort createLogInfo
+INFO: Элемент 3 перемещен на позицию 2
+янв. 27, 2023 4:25:25 PM org.example.BubleSort createLogInfo
+INFO: Элемент 2 перемещен на позицию 3
+янв. 27, 2023 4:25:25 PM org.example.BubleSort createLogInfo
+INFO: Элемент 3 перемещен на позицию 3
+янв. 27, 2023 4:25:25 PM org.example.BubleSort createLogInfo
+INFO: Элемент 2 перемещен на позицию 4
+янв. 27, 2023 4:25:25 PM org.example.BubleSort createLogInfo
+INFO: Элемент 3 перемещен на позицию 4
