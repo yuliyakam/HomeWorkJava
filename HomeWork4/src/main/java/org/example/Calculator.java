@@ -24,11 +24,13 @@ public class Calculator {
             //  (20-30)*10                                                  20 30 - 10 *
 
 
-            var exp = "2 5 ^".split(" "); // 2^5 два в пятой степени
+            String[] exp = "2 5 ^".split(" "); // 2^5 два в пятой степени
 
             int res = 0;
-            System.out.println(exp);
-
+            for (String element : exp) {
+                System.out.printf("%s ", element);
+            }
+            System.out.print("= ");
             Stack<Integer> st = new Stack<>();
             for (int i = 0; i < exp.length; i++) {
 
